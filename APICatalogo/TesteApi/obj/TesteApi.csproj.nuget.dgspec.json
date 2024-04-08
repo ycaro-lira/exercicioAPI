@@ -1,0 +1,72 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\OneDrive - Etec Centro Paula Souza\\RECODE PRO 2023\\Aulas\\14 - Net Csharp\\APICatalogo\\TesteApi\\TesteApi.csproj": {}
+  },
+  "projects": {
+    "D:\\OneDrive - Etec Centro Paula Souza\\RECODE PRO 2023\\Aulas\\14 - Net Csharp\\APICatalogo\\TesteApi\\TesteApi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\OneDrive - Etec Centro Paula Souza\\RECODE PRO 2023\\Aulas\\14 - Net Csharp\\APICatalogo\\TesteApi\\TesteApi.csproj",
+        "projectName": "TesteApi",
+        "projectPath": "D:\\OneDrive - Etec Centro Paula Souza\\RECODE PRO 2023\\Aulas\\14 - Net Csharp\\APICatalogo\\TesteApi\\TesteApi.csproj",
+        "packagesPath": "C:\\Users\\flavi\\.nuget\\packages\\",
+        "outputPath": "D:\\OneDrive - Etec Centro Paula Souza\\RECODE PRO 2023\\Aulas\\14 - Net Csharp\\APICatalogo\\TesteApi\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\flavi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
